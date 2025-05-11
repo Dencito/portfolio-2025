@@ -1,0 +1,108 @@
+[
+    {
+        "title": "Sistema de bonos",
+        "description": "Desarrollo de aplicación para la gestión de bonos, sucursales, usuarios. Trabajo realizado para empresa de Chile.",
+        "technologies": [
+            "React js",
+            "TypeScript",
+            "Laravel",
+            "MySql"
+        ],
+        "img": "https://nanubella.com.ar/wp-content/uploads/2024/09/sistema-bonos.webp"
+    },
+    {
+        "title": "Realiza tu pedido para dupla",
+        "description": "Desarrollo de aplicación móvil y de escritorio de una tienda para realizar pedidos de platos online, para restaurante gastronómico.",
+        "technologies": [
+            "Capacitor",
+            "Electron js",
+            "React js",
+            "TypeScript",
+            "Nest js",
+            "MySql"
+        ],
+        "img": "https://nanubella.com.ar/wp-content/uploads/2024/09/app-mejor-dupla.webp"
+    },
+    {
+        "title": "Librechat app",
+        "description": "Deploy de aplicación de LibreChat en Digital Ocean. Trabajo realizado para cliente.",
+        "technologies": [
+            "Digital Ocean",
+            "Docker",
+            "SSH"
+        ],
+        "img": "https://nanubella.com.ar/wp-content/uploads/2024/09/librechat.webp"
+    },
+    {
+        "title": "Expense tracker",
+        "description": "Desarrollo de aplicación de manejo de gastos, realizada como proyecto final del terciario.",
+        "technologies": [
+            "React js",
+            "C# .net",
+            "AWS",
+            "Amplify",
+            "API Gateway",
+            "EC2"
+        ],
+        "img": "https://nanubella.com.ar/wp-content/uploads/2024/09/Expense-tracker.webp"
+    },
+    {
+        "title": "Adopt me",
+        "description": "Desarrollo de aplicación de adopción de animales, realizada como proyecto personal.",
+        "technologies": [
+            "React js",
+            "Strapi Node js"
+        ],
+        "img": "https://nanubella.com.ar/wp-content/uploads/2024/09/Adopt-me.webp"
+    },
+    {
+        "title": "Natural queen",
+        "description": "Diseño de sitio web estilo landing page informativa, para empresa que ofrece productos.",
+        "technologies": [
+            "WordPress",
+            "Bricks Builder",
+            "SEO"
+        ],
+        "img": "https://nanubella.com.ar/wp-content/uploads/2024/04/Natural-queen-1024x576.webp"
+    },
+    {
+        "title": "Alprelle",
+        "description": "Diseño de sitio web corporativo para empresa constructora.",
+        "technologies": [
+            "WordPress",
+            "Elementor PRO",
+            "ACF"
+        ],
+        "img": "https://nanubella.com.ar/wp-content/uploads/2024/04/Alprelle-1024x576.webp"
+    },
+    {
+        "title": "Amparo salud",
+        "description": "Diseño de sitio web corporativo para empresa de atención médica domiciliaria.",
+        "technologies": [
+            "WordPress",
+            "Bricks Builder",
+            "SEO"
+        ],
+        "img": "https://nanubella.com.ar/wp-content/uploads/2024/04/Amparo-salud-1024x576.webp"
+    },
+    {
+        "title": "Informática virtual",
+        "description": "Diseño de sitio web estilo landing page con un sistema de e-commerce para empresa de servicios de reparación de computadoras.",
+        "technologies": [
+            "WordPress",
+            "Bricks Builder",
+            "SEO"
+        ],
+        "img": "https://nanubella.com.ar/wp-content/uploads/2024/04/Informativa-virtual-1024x576.webp"
+    },
+    {
+        "title": "Niveau medizin",
+        "description": "Diseño de sitio web corporativo para empresa de medicina privada.",
+        "technologies": [
+            "WordPress",
+            "Bricks Builder",
+            "SEO"
+        ],
+        "img": "https://nanubella.com.ar/wp-content/uploads/2024/04/Niveau-1024x576.webp"
+    }
+]
